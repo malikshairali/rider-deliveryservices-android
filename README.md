@@ -17,7 +17,7 @@ An android app providing state of the art delivery service solution. A simple, e
 - Orders history screen with filter option.
 - Cash reports screen with filter option.
 
-**Note:** Respective delivery service solution for shop management can be found [here](https://github.com/shairaligohar/shop-deliveryservices-android). 
+**Note:** Respective delivery service solution for shop management can be found [here](https://github.com/malikshairali/shop-deliveryservices-android). 
 
 ## Demo
 
